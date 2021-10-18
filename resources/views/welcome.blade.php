@@ -55,10 +55,11 @@
                         </div>
                         <h3 class="text-xl font-medium text-gray-900">Custom Applications</h3>
                         <p class="mt-4 text-base text-gray-500">
-                            From servers to software Sundance Solutions can build you application.
-                            With a history of <a href="https://www.devops-research.com/quickcheck.html"
-                                target="_blank">Elite Performance</a>
-                            and strategies like <a
+                            From servers to software Sundance Solutions can build your application.
+                            With a history of <a class="underline"
+                                href="https://www.devops-research.com/quickcheck.html" target="_blank">Elite
+                                Performance</a>
+                            and strategies like <a class="underline"
                                 href="https://www.mindtools.com/pages/article/build-measure-learn.htm"
                                 target="_blank">"Build Measure Learn"</a>
                             you know you will get the right application at the right speed.
@@ -84,9 +85,10 @@
                         <h3 class="text-xl font-medium text-gray-900">Training</h3>
                         <p class="mt-4 text-base text-gray-500">Have a team already but need help training and setting
                             up the
-                            needed Continuous Integration and Continous Development pipelines so your team can
-                            be enabled to work at <a href="https://www.devops-research.com/quickcheck.html"
-                                target="_blank">"Elite"</a> speed and stability? </p>
+                            needed Continuous Integration and Continous Delivery pipelines so your team can
+                            be enabled to work at <a class="underline"
+                                href="https://www.devops-research.com/quickcheck.html" target="_blank">"Elite"</a> speed
+                            and stability? </p>
                     </div>
                     {{-- <div class="p-6 bg-gray-50 rounded-bl-2xl rounded-br-2xl md:px-8">
                         <a href="#" class="text-base font-medium text-indigo-700 hover:text-indigo-600">Contact us<span
@@ -107,6 +109,7 @@
                         </div>
                         <h3 class="text-xl font-medium text-gray-900">Existing Projects</h3>
                         <p class="mt-4 text-base text-gray-500">Have an existing project and need help stabilizing it?
+
                         </p>
                     </div>
                     {{-- <div class="p-6 bg-gray-50 rounded-bl-2xl rounded-br-2xl md:px-8">
